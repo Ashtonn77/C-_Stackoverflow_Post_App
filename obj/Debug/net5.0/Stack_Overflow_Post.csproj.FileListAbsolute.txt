@@ -1,0 +1,16 @@
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post.deps.json
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post.runtimeconfig.json
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post.runtimeconfig.dev.json
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/ref/Stack_Overflow_Post.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/bin/Debug/net5.0/Stack_Overflow_Post.pdb
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.csprojAssemblyReference.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.GeneratedMSBuildEditorConfig.editorconfig
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.AssemblyInfoInputs.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.AssemblyInfo.cs
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.csproj.CoreCompileInputs.cache
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/ref/Stack_Overflow_Post.dll
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.pdb
+/home/ash/Documents/daily_activities/cSharp/Projects/Stack_Overflow_Post/obj/Debug/net5.0/Stack_Overflow_Post.genruntimeconfig.cache
